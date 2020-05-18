@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.vscode/
+desafio06/
+output.xml
+stdout.txt
+test_main.py
+.DS_Store
